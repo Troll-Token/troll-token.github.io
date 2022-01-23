@@ -9,11 +9,11 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract TrollFaucet {
     string public name = "TrollFaucet";
-    address public zombie;
+    address public trolls;
     uint256 public amount;
 
     constructor() {
-      trolls = 0X0;
+      trolls = 0xF4AFF74380234FE4cb24A4bA609970eDdEbb8781;
       amount = 500;
     }
 
