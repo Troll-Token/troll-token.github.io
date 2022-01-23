@@ -76,4 +76,4 @@
 	"stateMutability": "view",
 	"type": "function"
 	}
-], "0x0");
+], "0xF4AFF74380234FE4cb24A4bA609970eDdEbb8781");
