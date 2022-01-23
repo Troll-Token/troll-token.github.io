@@ -30,14 +30,14 @@
 			<button onclick="addIcon()" class="btn-sm btn-secondary">Add to MetaMask</button>
 		</div>
 			<p></p>
-			<p>TROLLS token contract address: 0x0</p><br>
+			<p>TROLLS token contract address: 0xF4AFF74380234FE4cb24A4bA609970eDdEbb8781</p><br>
 	</div>
 	<p></p><br>
 
 	<div class="row">
 		<div>
 		<h3 class="sub-header">Claim 500 TROLLS every 24 hours</h3>
-		<button onclick="claimZombie()" class="btn-sm btn-secondary">Claim</button>
+		<button onclick="claimTrolls()" class="btn-sm btn-secondary">Claim</button>
         <br><br>
         <p>You may need to double-click "Claim" to start a transaction.<br>
         You need Bitcoin Cash for blockchain transaction fee.</p>
@@ -72,7 +72,7 @@
 		function addIcon() {
 		ethereum.enable();
 		web3 = new Web3(window.ethereum);
-		const tokenAddress = '0x0';
+		const tokenAddress = '0xF4AFF74380234FE4cb24A4bA609970eDdEbb8781';
 		const tokenSymbol = 'TROLLS';
 		const tokenDecimals = 0;
 		const tokenImage = 'https://troll-token.github.io/img/logo200.png';
@@ -113,14 +113,12 @@
     <p></p><br>
 	<p><a href="https://troll-token.github.io">About TROLLS token</a><br>
 	<a href="https://github.com/troll-token/trolls/blob/main/contracts/TrollsFaucet.sol">Faucet contract</a><br>
-	<a href="https://github.com/troll-token/trolls/blob/main/faucetfrontend/">Faucet frontend</a><br>
+	<a href="https://github.com/troll-token/trolls/blob/main/faucet/">Faucet frontend</a><br>
     <a href="https://www.smartscan.cash/address/">Check faucet balance</a></p>
 	<p></p><br>
 
-    <p>Donation for zombie food:<br>
-    BCH: bitcoincash:<br>
-    BCH/SEP20 (SmartBCH): <br>
-    SLP: simpleledger:<br></p>
+    <p>Donation for the Troll army:<br>
+    BCH/SEP20 (SmartBCH): 0xBE420e71d3c0CF694f1Ae6dd4e85ecd9B0A71e40<br>
 	<p></p><br>
     <a href="https://t.me/"><img src="img/telegram.png" alt="Telegram" width="32" height="32"></a></p> 
 	<p></p><br>
