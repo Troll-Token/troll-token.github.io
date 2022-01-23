@@ -32,11 +32,11 @@ TROLLS contract ownership is [renounced](https://www.smartscan.cash/transaction/
 
 900000000000000000 TROLLS are locked in the [Vesting Wallet](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/VestingWallet.sol) since x, 2022. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release TROLLS tokens partially.
 
-Vesting Wallet contract address: 0x0
+Vesting Wallet contract address: 0x9519584AA4ae57973A5E86CB27445826d94B4Ccb
 
-Vesting Wallet on [SmartScan Explorer](https://www.smartscan.cash/address/)
+Vesting Wallet on [SmartScan Explorer](https://www.smartscan.cash/address/0x9519584AA4ae57973A5E86CB27445826d94B4Ccb)
 
-[One Click Dapp](https://oneclickdapp.com/scholar-prosper) to interact with Vesting Wallet.
+[One Click Dapp](https://oneclickdapp.com/) to interact with Vesting Wallet.
 
 ### TROLLS token faucet info
 
