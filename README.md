@@ -40,7 +40,7 @@ Vesting Wallet on [SmartScan Explorer](https://www.smartscan.cash/address/0x9519
 
 ### TROLLS token faucet info
 
-TROLLS [faucet](https://trollsfaucet.herokuapp.com). You can claim 500 TROLLS 1 time per day (every 24h and 1 second).
+TROLLS [faucet](https://troll-token.herokuapp.com). You can claim 500 TROLLS 1 time per day (every 24h and 1 second).
 
 Alternatively go [here](https://oneclickdapp.com/). Connect MetaMask, click on Write tab, click on claimTROLLS(address), paste your address in the recipient field and click Submit button. It is onchain, so you need BCH to pay for gas. Confirm transaction in MetaMask. You have been zombiefied - Result success. If you click on the Read tab lockTime(address) and paste your address in the address field, click submit, you get a number at the bottom - timestamp. You can copy the number and paste it to [Unixstamp](https://www.unixtimestamp.com), click convert and you get exact time you can claim again.
 
