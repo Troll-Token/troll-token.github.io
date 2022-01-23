@@ -14,19 +14,19 @@ Name: TROLLS
 
 Symbol: TROLLS
 
-Contract address: 0x0
+Contract address: 0xF4AFF74380234FE4cb24A4bA609970eDdEbb8781
 
 Total fixed supply: 1000000000000000000
 
 Decimals: 0
 
-Created x, 2022 by Troll-Token.
+Created 23 Januari, 2022 by Troll-Token.
 
-TROLLS army - [SmartScan Explorer](https://www.smartscan.cash/address/)
+TROLLS army - [SmartScan Explorer](https://www.smartscan.cash/address/0xF4AFF74380234FE4cb24A4bA609970eDdEbb8781)
 
-TROLLS [genesis transaction](https://www.smartscan.cash/transaction/)
+TROLLS [genesis transaction](https://www.smartscan.cash/transaction/0x3cee9f1c688e287f78316cf432949c23ae6a84e4404dea44c1afad2390e3f280)
 
-TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/) was created with [Remix](https://remix.ethereum.org/)
+TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/TROLLS.sol) was created with [Remix](https://remix.ethereum.org/)
 
 TROLLS contract ownership is [renounced](https://www.smartscan.cash/transaction/) to 0x0 address
 
@@ -52,7 +52,7 @@ Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/)
 
 [MISTswap](https://app.mistswap.fi/swap) DEX
 
-[MISTswap](https://analytics.mistswap.fi/tokens/) Analytics
+[MISTswap](https://analytics.mistswap.fi/tokens/0xF4AFF74380234FE4cb24A4bA609970eDdEbb8781) Analytics
 
 [BenSwap](https://dex.benswap.cash/#/swap) DEX
 
