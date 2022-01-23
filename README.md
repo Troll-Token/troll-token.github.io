@@ -30,7 +30,7 @@ TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/mast
 
 TROLLS contract ownership is [renounced](https://www.smartscan.cash/transaction/) to 0x0 address
 
-900000000000000000 TROLLS are locked in the [Vesting Wallet](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/VestingWallet.sol) since x, 2022. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release TROLLS tokens partially.
+900000000000000000 TROLLS are locked in the [Vesting Wallet](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/VestingWallet.sol) since 23 Januari, 2022. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release TROLLS tokens partially.
 
 Vesting Wallet contract address: 0x9519584AA4ae57973A5E86CB27445826d94B4Ccb
 
