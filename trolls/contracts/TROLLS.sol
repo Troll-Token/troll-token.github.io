@@ -1,6 +1,6 @@
 pragma solidity 0.8.6;
 
-// SPDX-License-Identifier: Unlicensed
+// SPDX-License-Identifier: MIT
 
 contract TrollToken {
     //  Name
