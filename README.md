@@ -30,7 +30,7 @@ TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/mast
 
 ### TROLLS token faucet info
 
-TROLLS [faucet](https://troll-token.herokuapp.com). You can claim 500 TROLLS 1 time per day (every 24h and 1 second).
+TROLLS [faucet](https://troll-token.herokuapp.com). You can claim 475 TROLLS 1 time per day (every 24h and 1 second).
 
 TROLLS Faucet contract: 0x59EdC24b0988FB7DAa5f7e72ca2e584C3Fb2d132
 
